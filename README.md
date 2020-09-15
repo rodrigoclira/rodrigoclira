@@ -8,7 +8,7 @@
 
 :email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulusta.ifpe.edu.br
  
-:page_facing_up: ou acesse o meu site http://rodrigoclira.github.io para obter mais informações.
+:page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
 
 
 <!--
