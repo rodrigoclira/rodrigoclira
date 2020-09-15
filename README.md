@@ -1,14 +1,14 @@
-👋 Olá, meu nome é Rodrigo Lira. 
+👋 Olá, meu nome é Rodrigo Lira! 
 
-:computer: Sou professor no IFPE campus Paulista. Atuo nos cursos de Análise e Desenvolvimento de Sistemas e no curso Técnico de Manutenção e Suporte em Informática. 
+:computer: Sou professor no [IFPE campus Paulista](https://portal.ifpe.edu.br/campus/paulista). La, eu leciono no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, e no curso Técnico em Manutenção e Suporte em Informática. 
 
-:notebook: Também sou aluno do Doutorado de Engenharia da Computação do Programa de Pós-Graduação em Engenharia da Computação da POLI/UPE. 
+:notebook: Também sou aluno do Doutorado do [Programa de Pós-Graduação em Engenharia da Computação da POLI/UPE](http://ppgec.ecomp.poli.br/). 
 
 :mag_right: Atualmente estou desenvolvendo projetos na área de inteligência de enxames, IoT e Tecnologia na Educação. 
 
 :email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulusta.ifpe.edu.br
  
-:page_facing_up:   ou acesse o meu site http://rodrigoclira.github.io para mais informações
+:page_facing_up: ou acesse o meu site http://rodrigoclira.github.io para obter mais informações.
 
 
 <!--
