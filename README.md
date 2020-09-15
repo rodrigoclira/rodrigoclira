@@ -6,7 +6,7 @@
 
 :mag_right: Atualmente estou desenvolvendo projetos na área de inteligência computacioanl, IoT, e Informática na Educação. 
 
-:email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulusta.ifpe.edu.br
+:email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulista.ifpe.edu.br
  
 :page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
 
