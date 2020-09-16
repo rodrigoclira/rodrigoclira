@@ -4,11 +4,19 @@
 
 :notebook: Também sou aluno do Doutorado do [Programa de Pós-Graduação em Engenharia da Computação da POLI/UPE](http://ppgec.ecomp.poli.br/). 
 
-:mag_right: Atualmente estou desenvolvendo projetos na área de inteligência computacioanl, IoT, e Informática na Educação. 
+:hammer: Atualmente estou desenvolvendo projetos na área de inteligência computacioanl, IoT, e Informática na Educação. 
 
 :email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulista.ifpe.edu.br
  
 :page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
+
+
+
+
+### :octocat: Estatísticas
+
+ ![github stats](https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoclira&layout=compact)
 
 
 <!--
