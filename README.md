@@ -10,7 +10,7 @@
  
 :page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
 
-### Blog
+### Útimas postagens no blog
 <!-- BLOG-POST-LIST:START -->
 - [Accredited Educator da AWS Academy](https://rodrigoclira.github.io/post/cloud-practitioner/)
 - [Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)](https://rodrigoclira.github.io/post/kdmile2020/)
