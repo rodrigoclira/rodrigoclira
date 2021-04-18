@@ -10,7 +10,9 @@
  
 :page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
 
-
+### Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### :octocat: Estatísticas
