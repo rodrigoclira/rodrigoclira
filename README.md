@@ -22,8 +22,8 @@
 
 ### :octocat: Estatísticas
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoclira&layout=compact)
+ ![github stats](https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true&locale=pt-br)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoclira&layout=compact&locale=pt-br)
 
 
 <!--
