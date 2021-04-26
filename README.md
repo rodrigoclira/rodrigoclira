@@ -10,7 +10,7 @@
  
 :page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
 
-### Útimas postagens no blog
+### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
 - [Publicação no Computer on the Beach (COTB 2020)](https://rodrigoclira.github.io/post/cotb2021/)
 - [Accredited Educator da AWS Academy](https://rodrigoclira.github.io/post/cloud-practitioner/)
