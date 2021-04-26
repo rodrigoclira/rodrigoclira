@@ -4,7 +4,7 @@
 
 :notebook: Também sou aluno do Doutorado do [Programa de Pós-Graduação em Engenharia da Computação da POLI/UPE](http://ppgec.ecomp.poli.br/). 
 
-:hammer: Atualmente estou desenvolvendo projetos na área de inteligência computacioanl, IoT, e Informática na Educação. 
+:hammer: Atualmente estou desenvolvendo projetos na área de inteligência computacional, IoT, e Informática na Educação. 
 
 :email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulista.ifpe.edu.br
  
