@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [Como manter o processo mesmo após sair da sessão](https://rodrigoclira.github.io/post/cmd-screen/)
 - [Publicação no Computer on the Beach (COTB 2020)](https://rodrigoclira.github.io/post/cotb2021/)
 - [Accredited Educator da AWS Academy](https://rodrigoclira.github.io/post/cloud-practitioner/)
 - [Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)](https://rodrigoclira.github.io/post/kdmile2020/)
 - [O elefante de Von Neumann](https://rodrigoclira.github.io/post/elefante-von-neumann/)
-- [Usando o Netlogo para simular a transmissão do coronavírus](https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/)
 <!-- BLOG-POST-LIST:END -->
 
 
