@@ -23,11 +23,11 @@
 ### :octocat: Estatísticas
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true&locale=pt-br)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoclira&layout=compact&locale=pt-br)
 
 
 <!--
 **rodrigoclira/rodrigoclira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoclira&layout=compact&locale=pt-br)
 
 Here are some ideas to get you started:
 
