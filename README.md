@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [Git Cheat Sheet](https://rodrigoclira.github.io/post/git-cheat-sheet/)
 - [Publicação no Journal of Information and Data Management (JIDM 2021)](https://rodrigoclira.github.io/post/jidm2021/)
 - [Como manter o processo mesmo após sair da sessão](https://rodrigoclira.github.io/post/cmd-screen/)
 - [Publicação no Computer on the Beach (COTB 2020)](https://rodrigoclira.github.io/post/cotb2021/)
 - [Accredited Educator da AWS Academy](https://rodrigoclira.github.io/post/cloud-practitioner/)
-- [Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)](https://rodrigoclira.github.io/post/kdmile2020/)
 <!-- BLOG-POST-LIST:END -->
 
 
