@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
-- [Capacitação tecnológica em .NET do IFPE/SIDI](https://rodrigoclira.github.io/post/pet-facepe/)
-- [Git Cheat Sheet](https://rodrigoclira.github.io/post/git-cheat-sheet/)
+- [Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)](https://rodrigoclira.github.io/post/2021/lacci2021/)
+- [Capacitação tecnológica em .NET do IFPE/SIDI](https://rodrigoclira.github.io/post/2021/pet-facepe/)
+- [Git Cheat Sheet](https://rodrigoclira.github.io/post/2021/git-cheat-sheet/)
 - [Publicação no Journal of Information and Data Management (JIDM 2021)](https://rodrigoclira.github.io/post/2021/jidm2021/)
-- [Como manter o processo mesmo após sair da sessão](https://rodrigoclira.github.io/post/cmd-screen/)
-- [Publicação no Computer on the Beach (COTB 2020)](https://rodrigoclira.github.io/post/cotb2021/)
+- [Como manter o processo mesmo após sair da sessão](https://rodrigoclira.github.io/post/2021/cmd-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 
