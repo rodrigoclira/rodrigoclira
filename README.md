@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [Acordo de Cooperação Técnica entre o IFPE Paulistae a Softex Recife](https://rodrigoclira.github.io/post/2021/act-softex-recife/)
 - [Huawei HCIA-AI e a AWS Solutions Architect](https://rodrigoclira.github.io/post/2021/certificacoes-agosto/)
 - [Publicação no Latin America Conference on Computational Intelligence &lpar;LA-CCI 2021&rpar;](https://rodrigoclira.github.io/post/2021/lacci2021/)
 - [Capacitação tecnológica em .NET do IFPE/SIDI](https://rodrigoclira.github.io/post/2021/pet-facepe/)
 - [Git Cheat Sheet](https://rodrigoclira.github.io/post/2021/git-cheat-sheet/)
-- [Publicação no Journal of Information and Data Management &lpar;JIDM 2021&rpar;](https://rodrigoclira.github.io/post/2021/jidm2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
