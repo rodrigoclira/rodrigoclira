@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [Grey Wolf Optimizer in a nutshell](https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/)
 - [Atualizando o SQLITE no Amazon Linux 2](https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/)
 - [Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec](https://rodrigoclira.github.io/post/2021/oficina40/)
 - [Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica](https://rodrigoclira.github.io/post/2021/pet-facepe-encerramento-2021/)
 - [Apresentação de projeto na Câmara Municipal de Brumadinho](https://rodrigoclira.github.io/post/2021/apresentacao-brumadinho/)
-- [Acordo de Cooperação Técnica entre o IFPE Paulista e o Softex Recife](https://rodrigoclira.github.io/post/2021/act-softex-recife/)
 <!-- BLOG-POST-LIST:END -->
 
 
