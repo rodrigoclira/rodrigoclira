@@ -31,7 +31,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoclira&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td>
     <!-- Github Top Languages -->
-      <td valign="top"><img height="200" src="https://activity-graph.herokuapp.com/graph?username=rodrigoclira&custom_title=My%20Activity%20Graph!&hide_border=true&theme=minimal"/></td>
+      <!-- <td valign="top"><img height="200" src="https://activity-graph.herokuapp.com/graph?username=rodrigoclira&custom_title=My%20Activity%20Graph!&hide_border=true&theme=minimal"/></td> -->
   </tr>
   </tr>
 </table>
