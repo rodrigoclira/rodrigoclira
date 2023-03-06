@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [IAs Úteis ao público geral](https://rodrigoclira.github.io/post/2023/ia-uteis/)
 - [Qual idade dos meus filhos?](https://rodrigoclira.github.io/post/2022/qual-idade-dos-meus-filhos/)
 - [Aplicação Web para Monitoramento dos Ninhos de Tartarugas Marinhas no Litoral da Cidade de Paulista &lpar;PE&rpar;](https://rodrigoclira.github.io/post/2022/app-monitoramento-ninho-tartarugas/)
 - [Grey Wolf Optimizer in a nutshell](https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/)
 - [Atualizando o SQLITE no Amazon Linux 2](https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/)
-- [Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec](https://rodrigoclira.github.io/post/2021/oficina40/)
 <!-- BLOG-POST-LIST:END -->
 
 
