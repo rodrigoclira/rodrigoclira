@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
-- [Passo a Passo para implantação de Aplicação Django na AWS](https://rodrigoclira.github.io/post/2023/implantacao-django/)
+- [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-courses/)
+- [Nature Abstract](https://rodrigoclira.github.io/post/2023/nature-abstract/)
+- [Passo a Passo para Implantação de Aplicação Django na AWS](https://rodrigoclira.github.io/post/2023/implantacao-django/)
 - [IAs Úteis ao público geral](https://rodrigoclira.github.io/post/2023/ia-uteis/)
 - [Qual idade dos meus filhos?](https://rodrigoclira.github.io/post/2022/qual-idade-dos-meus-filhos/)
-- [Aplicação Web para Monitoramento dos Ninhos de Tartarugas Marinhas no Litoral da Cidade de Paulista &lpar;PE&rpar;](https://rodrigoclira.github.io/post/2022/app-monitoramento-ninho-tartarugas/)
-- [Grey Wolf Optimizer in a nutshell](https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/)
 <!-- BLOG-POST-LIST:END -->
 
 
