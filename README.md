@@ -12,7 +12,7 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
-- [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-courses/)
+- [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-material/)
 - [Nature Abstract](https://rodrigoclira.github.io/post/2023/nature-abstract/)
 - [Passo a Passo para Implantação de Aplicação Django na AWS](https://rodrigoclira.github.io/post/2023/implantacao-django/)
 - [IAs Úteis ao público geral](https://rodrigoclira.github.io/post/2023/ia-uteis/)
