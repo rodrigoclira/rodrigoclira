@@ -19,7 +19,7 @@
 - [Qual idade dos meus filhos?](https://rodrigoclira.github.io/post/2022/qual-idade-dos-meus-filhos/)
 <!-- BLOG-POST-LIST:END -->
 
-### Útimas artigos publicados
+### Útimos artigos publicados
 <!-- PUBLICATION-LIST:START -->
 
 <!-- PUBLICATION-LIST:END -->
