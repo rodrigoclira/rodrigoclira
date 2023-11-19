@@ -12,11 +12,11 @@
 
 ### Útimas postagens no site
 <!-- BLOG-POST-LIST:START -->
+- [Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse](https://rodrigoclira.github.io/post/2023/nature-article/)
 - [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-material/)
 - [Nature Abstract](https://rodrigoclira.github.io/post/2023/nature-abstract/)
 - [Passo a Passo para Implantação de Aplicação Django na AWS](https://rodrigoclira.github.io/post/2023/implantacao-django/)
 - [IAs Úteis ao público geral](https://rodrigoclira.github.io/post/2023/ia-uteis/)
-- [Qual idade dos meus filhos?](https://rodrigoclira.github.io/post/2022/qual-idade-dos-meus-filhos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Útimos artigos publicados
