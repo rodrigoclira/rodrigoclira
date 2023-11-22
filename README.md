@@ -28,13 +28,13 @@
 - [INOVA ID RS: Desenvolvimento de um Sistema de Gestão de Identidade Federada Aderente ao Ecossistema de Inovação Rio Grande do Sul](https://rodrigoclira.github.io/publication/conference/2023/wgid2023/)
 <!-- PUBLICATION-LIST:END -->
 
-### :octocat: Estatísticas
+<!-- ### :octocat: Estatísticas -->
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true&locale=pt-br"/></td>
+    <!-- <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigoclira&show_icons=true&hide_title=true&locale=pt-br"/></td> -->
     <!-- Github Top Languages -->
-      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoclira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/></td>
+      <!-- <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoclira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/></td> -->
       <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <!-- <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoclira&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td> -->
