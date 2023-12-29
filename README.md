@@ -21,11 +21,11 @@
 
 ### Útimos artigos publicados
 <!-- PUBLICATION-LIST:START -->
+- [Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência](https://rodrigoclira.github.io/publication/journal/praxis2023-b/)
 - [Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections](https://rodrigoclira.github.io/publication/journal/nature-human-behaviour-2023/)
 - [Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms](https://rodrigoclira.github.io/publication/conference/2023/lacci2023/)
 - [Volitive Grey Wolf Optimizer](https://rodrigoclira.github.io/publication/conference/2023/cbic2023/)
 - [Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence](https://rodrigoclira.github.io/publication/conference/2023/bracis2023/)
-- [INOVA ID RS: Desenvolvimento de um Sistema de Gestão de Identidade Federada Aderente ao Ecossistema de Inovação Rio Grande do Sul](https://rodrigoclira.github.io/publication/conference/2023/wgid2023/)
 <!-- PUBLICATION-LIST:END -->
 
 <!-- ### :octocat: Estatísticas -->
