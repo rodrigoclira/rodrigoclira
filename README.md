@@ -21,11 +21,11 @@
 
 ### Útimos artigos publicados
 <!-- PUBLICATION-LIST:START -->
-- [Unpacking heterogeneities of Swarm Intelligence using Network Science](https://rodrigoclira.github.io/publication/conference/2024/frccs2024/)
 - [Social Interactions Matter: Is Grey Wolf Optimizer a Particle Swarm Optimization Variation?](https://rodrigoclira.github.io/publication/conference/2024/complenet2024/)
 - [Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência](https://rodrigoclira.github.io/publication/journal/praxis2023-b/)
 - [Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections](https://rodrigoclira.github.io/publication/journal/nature-human-behaviour-2023/)
 - [Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms](https://rodrigoclira.github.io/publication/conference/2023/lacci2023/)
+- [Volitive Grey Wolf Optimizer](https://rodrigoclira.github.io/publication/conference/2023/cbic2023/)
 <!-- PUBLICATION-LIST:END -->
 
 <!-- ### :octocat: Estatísticas -->
