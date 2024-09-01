@@ -21,11 +21,11 @@
 
 ### Útimos artigos publicados
 <!-- PUBLICATION-LIST:START -->
+- [Unpacking heterogeneities of Swarm Intelligence using Network Science](https://rodrigoclira.github.io/publication/conference/2024/ccs/)
 - [Detecção de Anomalias em Rolamento de Aerogeradores Baseada em Modelos Não Supervisionados](https://rodrigoclira.github.io/publication/conference/2024/brazil-windpower/)
 - [Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic: A study using Improvement Frequency and Population Turnover](https://rodrigoclira.github.io/publication/conference/2024/lacci/)
 - [Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas](https://rodrigoclira.github.io/publication/conference/2024/encompif/)
 - [Social Interactions Matter: Is Grey Wolf Optimizer a Particle Swarm Optimization Variation?](https://rodrigoclira.github.io/publication/conference/2024/complenet/)
-- [Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência](https://rodrigoclira.github.io/publication/journal/praxis2023-b/)
 <!-- PUBLICATION-LIST:END -->
 
 <!-- ### :octocat: Estatísticas -->
