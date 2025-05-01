@@ -10,7 +10,7 @@
 
 ## Website 
 
-### Latest posts on the site
+### Latest posts 
 <!-- BLOG-POST-LIST:START -->
 - [IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027](https://rodrigoclira.github.io/post/2025/consup-2025/)
 - [Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais](https://rodrigoclira.github.io/post/2024/encompif-2024/)
