@@ -1,14 +1,14 @@
-👋 Olá, meu nome é Rodrigo Lira! 
+👋 Hi there, I'm Rodrigo Lira! 
 
-:computer: Sou professor no [IFPE *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). <!-- No momento estou lecionando no curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS), e no curso Técnico em Manutenção e Suporte em Informática (MSI). -->
+:computer: I'm a professor at [IFPE *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). <!-- No momento estou lecionando no curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS), e no curso Técnico em Manutenção e Suporte em Informática (MSI). -->
 
-<!--:hammer: Atualmente estou desenvolvendo projetos na área de inteligência computacional, IoT, e Informática na Educação. -->
+<!--:hammer: I am currently developing projects in the area of ​​computational intelligence, IoT and IT in Education. -->
 
-:email: Caso queira me contatar, envie um e-mail para rodrigo.lira@paulista.ifpe.edu.br
+:email: If you want to contact me, please send an email to rodrigo.lira@paulista.ifpe.edu.br
  
-:page_facing_up: ou acesse o meu site https://rodrigoclira.github.io para obter mais informações.
+:page_facing_up: or visit my website https://rodrigoclira.github.io (pt-br) for more information.
 
-### Útimas postagens no site
+### Latest posts on the site
 <!-- BLOG-POST-LIST:START -->
 - [IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027](https://rodrigoclira.github.io/post/2025/consup-2025/)
 - [Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais](https://rodrigoclira.github.io/post/2024/encompif-2024/)
@@ -17,7 +17,7 @@
 - [Nature Abstract](https://rodrigoclira.github.io/post/2023/nature-abstract/)
 <!-- BLOG-POST-LIST:END -->
 
-### Útimos artigos publicados
+### Latest papers
 <!-- PUBLICATION-LIST:START -->
 - [INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho](https://rodrigoclira.github.io/publication/conference/2024/anprotec/)
 - [Unpacking heterogeneities of Swarm Intelligence using Network Science](https://rodrigoclira.github.io/publication/conference/2024/ccs/)
