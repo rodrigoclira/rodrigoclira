@@ -23,11 +23,11 @@
 
 ### Latest papers
 <!-- PUBLICATION-LIST:START -->
+- [A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic](https://rodrigoclira.github.io/publication/conference/2025/bracis/)
 - [DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões](https://rodrigoclira.github.io/publication/conference/2025/wcama/)
 - [Revealing Swarm Intelligence Patterns using Network Science &lpar;abstract&rpar;](https://rodrigoclira.github.io/publication/conference/2025/complenet/)
 - [INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho](https://rodrigoclira.github.io/publication/conference/2024/anprotec/)
 - [Unpacking heterogeneities of Swarm Intelligence using Network Science &lpar;abstract&rpar;](https://rodrigoclira.github.io/publication/conference/2024/ccs/)
-- [Detecção de Anomalias em Rolamento de Aerogeradores Baseada em Modelos Não Supervisionados](https://rodrigoclira.github.io/publication/conference/2024/brazil-windpower/)
 <!-- PUBLICATION-LIST:END -->
 
 <!-- ### :octocat: Estatísticas -->
