@@ -14,11 +14,11 @@
 
 ### Latest posts 
 <!-- BLOG-POST-LIST:START -->
+- [Swarm Dynamics Frameworks](https://rodrigoclira.github.io/post/2026/swarm-dynamics-framework/)
 - [Murmuration](https://rodrigoclira.github.io/post/2025/murmuration/)
 - [IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027](https://rodrigoclira.github.io/post/2025/consup-2025/)
 - [Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais](https://rodrigoclira.github.io/post/2024/encompif-2024/)
 - [Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse](https://rodrigoclira.github.io/post/2023/nature-article/)
-- [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-material/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest papers
