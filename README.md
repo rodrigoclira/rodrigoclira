@@ -14,11 +14,11 @@
 
 ### Latest posts 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Code Server on an EC2 Instance](https://rodrigoclira.github.io/post/2026/code-server-ec2/)
 - [Por que é importante aprender a programar na era das LLMs?](https://rodrigoclira.github.io/post/2026/learning-to-program-in-age-of-llm/)
 - [IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027](https://rodrigoclira.github.io/post/2025/consup-2025/)
 - [Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais](https://rodrigoclira.github.io/post/2024/encompif-2024/)
 - [Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse](https://rodrigoclira.github.io/post/2023/nature-article/)
-- [Material sobre Reinforcement Learning](https://rodrigoclira.github.io/post/2023/rl-material/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest papers
